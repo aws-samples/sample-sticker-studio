@@ -4,7 +4,7 @@
 
 A web app for generating custom AWS-themed stickers. Pick a character, an activity, and a location — the app uses Amazon Bedrock (Stability AI Ultra) to generate a sticker-style illustration, wraps it in a circular badge overlay with curved text, and gives you a downloadable PNG.
 
-![Architecture](./doc/archi_screen.png)
+![Architecture](./doc/StickerStudioArchitecture.png)
 
 ## How it works
 
