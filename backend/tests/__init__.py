@@ -1,0 +1,1 @@
+# Test module for AWS Sticker Studio deployment

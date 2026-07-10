@@ -1,0 +1,11 @@
+build/*
+.next/*
+node_modules/*
+
+# CDK-generated output files — change on every deploy, not needed in the image
+outputs.json
+cdk-outputs.json
+
+# TypeScript incremental build artifacts
+*.tsbuildinfo
+next-env.d.ts
