@@ -3,7 +3,7 @@ name = "sticker-studio-backend"
 version = "0.1.0"
 requires-python = ">=3.11,<3.15"
 dependencies = [
-    "aws-cdk-lib==2.233.0",
+    "aws-cdk-lib==2.253.0",
     "constructs==10.4.4",
     "boto3==1.35.0",
     "cdk-nag==2.35.0",
